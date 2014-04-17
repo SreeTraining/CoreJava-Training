@@ -6,4 +6,7 @@
   <packaging>pom</packaging>
   <name>CoreJava-Training</name>
   <description>CoreJava Examples</description>
+  <modules>
+  	<module>Basics</module>
+  </modules>
 </project>
