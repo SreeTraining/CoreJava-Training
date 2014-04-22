@@ -8,5 +8,6 @@
   <description>CoreJava Examples</description>
   <modules>
   	<module>Basics</module>
+  	<module>OOPS</module>
   </modules>
 </project>
